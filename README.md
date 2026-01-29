@@ -22,10 +22,17 @@ The system is designed to be secure, scalable, and serverless, leveraging AWS-ma
 -> Workflow
 
 1.User uploads an image to the application
-2.Image is stored securely in Amazon S3
+
+2.Image is stored securely in Amazon S3 
+
 3.IAM manages authentication and access permissions
+
 4.Python script accesses AWS services using AWS CLI
+
 5.Image is retrieved from S3 for processing
+
 6.Amazon Rekognition analyzes the image
+
 7.Detected labels and metadata are generated
+
 8.Results are displayed on the output screen
