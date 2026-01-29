@@ -10,9 +10,13 @@ The system is designed to be secure, scalable, and serverless, leveraging AWS-ma
 ->Technologies Used
 
 1.Amazon S3 – Image storage
+
 2.Amazon Rekognition – Image analysis and label detection
+
 3.AWS IAM – Authentication and access control
+
 4.AWS CLI – Service access and management
+
 5.Python – Backend processing and API calls
 
 -> Workflow
